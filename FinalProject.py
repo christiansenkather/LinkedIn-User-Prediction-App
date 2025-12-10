@@ -32,7 +32,7 @@ from sklearn.linear_model import LogisticRegression
 
 
 # Read in the data, call the dataframe "s"  and check the dimensions of the dataframe
-s = pd.read_csv('/Users/christiansenka/Documents/Programming 2/Final Project/social_media_usage.csv')
+s = pd.read_csv('social_media_usage.csv')
 
 
 # In[46]:
